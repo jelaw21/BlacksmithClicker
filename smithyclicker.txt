@@ -26,7 +26,6 @@ Buttons
 		icon:https://jelaw21.github.io/BlacksmithClicker/assets/anvil.png
 		no text
 		class:bigButton hasFlares
-		icon class:shadowed
 		tooltip origin:bottom
 		tooltip class:red
 
