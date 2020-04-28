@@ -73,7 +73,7 @@ Buildings
 		on click:anim glow
 
 	*cage|cages
-		name:Rabbit cage|Rabbit cages
+		name:I changed something|Rabbit cages
 		desc:A tiny little cage.<//><b>Effect:</b><.>Produces 1 rabbit every 10 seconds.
 		icon:icons[3,0]
 		cost:15 bunnies
