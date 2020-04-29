@@ -35,7 +35,6 @@ Buttons
         on click:yield 1 bunny
         on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
         icon:stuff/bunny.png
-        no text
         class:bigButton hasFlares
         tooltip origin:bottom
         tooltip class:red
@@ -44,7 +43,7 @@ Resources
 	*bunny|bunnies
 		name:Bunny|Bunnies
 		desc:These are your bunnies. You can use them to purchase things. Your goal is to have as many bunnies as possible!
-		icon:icons[0,0]
+		icon:https://jelaw21.github.io/BlacksmithClicker/assets/anvil.png
 		class:noBackground
 		show earned
 
