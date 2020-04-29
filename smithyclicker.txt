@@ -43,7 +43,6 @@ Buttons
         on click:yield 1 bunny
         on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
         icon:stuff/bunny.png
-        class:bigButton hasFlares
         tooltip origin:bottom
         tooltip class:red
 
