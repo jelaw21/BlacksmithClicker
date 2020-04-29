@@ -16,6 +16,13 @@ Settings
 Layout
 	use default
 
+CSS
+  .anvilIcon
+  {
+    width:256px;
+    height:256px;
+  }
+
 Buttons
 	*bunnyButton
 		name:Make a bunny
@@ -25,9 +32,9 @@ Buttons
 		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
 		icon:https://jelaw21.github.io/BlacksmithClicker/assets/anvil.png
 		no text
-		class:bigButton hasFlares
 		tooltip origin:bottom
 		tooltip class:red
+		
 	*bunnyButton2
         name:Make a bunny
         desc:Click this little bunny to get more bunnies!
