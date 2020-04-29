@@ -31,7 +31,6 @@ Buttons
 		on click:yield 1 bunny
 		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
 		icon:https://jelaw21.github.io/BlacksmithClicker/assets/anvil.png
-		class:anvilIcon
 		no text
 		tooltip origin:bottom
 		tooltip class:red
